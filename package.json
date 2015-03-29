@@ -1,8 +1,7 @@
 {
-  "name": "csob-txt-transform",
-  "version": "0.0.2",
-  "private": false,
-  "description": "",
+  "name": "csob-txt",
+  "version": "0.0.1",
+  "description": "CSOB text file format parser",
   "author": "Petr Simek <petr.simek@gmail.com>",
   "main": "index.js",
   "scripts": {
