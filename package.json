@@ -1,6 +1,6 @@
 {
   "name": "csob-txt",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "CSOB text file format parser",
   "author": "Petr Simek <petr.simek@gmail.com>",
   "main": "index.js",
@@ -11,6 +11,13 @@
   },
   "devDependencies": {
     "debug": "^2.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/petrsimek/csob-txt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/petrsimek/csob-txt/issues"
   },
   "license":"MIT"
 }
